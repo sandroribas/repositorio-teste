@@ -1,0 +1,45 @@
+https://github.com/sandroribas/repositorio-teste.git
+
+http://spirelightmedia.com/responsive-design-device-resolution-reference
+
+Samsung Galaxy Y - 320x240
+
+iPhone 3G e 3Gs, Samsung Galaxy Ace - 320x480
+
+Samsung Galaxy I, II and S Samsung Nexus S
+HTC Desire, Desire HD & Desire S
+HTC Evo HTC Sensation XL
+BlackBerry Torch 9860
+Blackberry Storm 3
+Nokia Lumia 800
+Omnia W
+Viewsonic Viewpad 7
+LG Optimus 2X & 3D - 480x800
+
+Apple iPhone 4 & 4S
+New Apple iPod Touch - 640x960
+
+Samsung Galaxy Tab - 600x1024
+
+Apple iPad 1& 2 - 768x1024
+
+Samsung Galaxy Nexus
+Sony Xperia S - 720x1280
+
+Samsung Galaxy Tab 10.1 - 768x1280
+
+Samsung Galaxy Tab 7.1 & 8.9
+Samsung Galaxy Note
+ASUS Eee Pad Transformer & Transformer Prime
+Sony Tablet S
+Motorola Zoom - 800x1280
+
+Netbook - 600x1024
+
+Monitores
+1024x768
+1280x1024
+1920x1080
+
+72% have a screen resolution of 240×320 or more
+68% strictly equals to 240×320
