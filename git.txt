@@ -1,0 +1,8 @@
+git init
+git status
+git remote add origin git@github.com:sandroribas/kill.git
+git add .
+git commit -m 'cometario'
+git push origin mater
+git pull consolidar arquivos
+git clone git@github.com:sandroribas/repositorio-teste
